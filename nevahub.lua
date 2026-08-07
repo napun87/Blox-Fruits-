@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/VEZ2/NEVAHUB/main/2"))()
+loadstring(game:HttpGet("https://robloxscriptbest.com/script/loader.php?script=nevahub"))()
