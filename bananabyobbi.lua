@@ -112,7 +112,7 @@ end
 -- 1. Chức năng sao chép link Link4M
 CopyBtn.MouseButton1Click:Connect(function()
     if setclipboard then
-        setclipboard("https://toplinks.io/VmRKrqu")
+        setclipboard("https://ontops.link/JkPz-gd")
     end
     CopyBtn.Text = "ĐÃ COPY LINK!"
     task.wait(2)
