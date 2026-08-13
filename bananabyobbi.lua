@@ -1,7 +1,7 @@
 --[[ 
     SYSTEM BY ANHTHW ROBLOX 
     LINK GET KEY: https://ontops.link/JkPz-gd
-    KEY: bananakey1.2.3.4.6
+    KEY: bananakey1.2.3.4.6n
 ]]
 
 local ScreenGui = Instance.new("ScreenGui")
@@ -87,7 +87,7 @@ Instance.new("UICorner", SubmitBtn).CornerRadius = UDim.new(0, 10)
 --- LOGIC LƯU KEY & XỬ LÝ ---
 
 local fileName = "AnhThw_SavedKey.txt"
-local correctKey = "bananakey1.2.3.4.6"
+local correctKey = "bananakey1.2.3.4.6n"
 
 -- Hàm tự động tải Script chính
 local function ExecuteMainScript()
