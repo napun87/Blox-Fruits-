@@ -87,7 +87,7 @@ Instance.new("UICorner", SubmitBtn).CornerRadius = UDim.new(0, 10)
 --- LOGIC LƯU KEY & XỬ LÝ ---
 
 local fileName = "AnhThw_SavedKey.txt"
-local correctKey = "bananakey1.2.3.4.6n"
+local correctKey = "bananakey1.2.3.4.6nb"
 
 -- Hàm tự động tải Script chính
 local function ExecuteMainScript()
